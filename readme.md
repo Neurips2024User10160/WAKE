@@ -1,2 +1,2 @@
 # WAKE
-This repository is the official repository for the paper, WAKE: Watermarking Audio with Key Enrichment, submitted to NIPS 2024. The model code has already been included in our submission attachments. Upon acceptance of our paper, we will open source the model and code in this repository.
+This repository is the official repository for the paper, WAKE: Watermarking Audio with Key Enrichment, submitted to NeurIPS 2024. The model code has already been included in our submission attachments. Upon acceptance of our paper, we will open source the model and code in this repository.
